@@ -1,3 +1,6 @@
+
+// 点を管理するクラス
+
 class Point {
   float x;
   float y;

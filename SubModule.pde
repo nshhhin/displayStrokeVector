@@ -1,4 +1,6 @@
 
+// いろんな関数
+
 void displayStrokes(ArrayList<Stroke> g_listStrokes){
   for( Stroke st: g_listStrokes ){
     strokeWeight(8);

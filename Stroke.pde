@@ -1,4 +1,6 @@
 
+// ストロークを管理するクラス
+
 class Stroke {
   ArrayList <Point>m_listPoints = new ArrayList();
 

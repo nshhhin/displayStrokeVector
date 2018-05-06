@@ -1,6 +1,5 @@
 
-
-// Event Listener
+// イベント処理
 
 void mousePressed() {
   gifMaker = new GifMaker(this, "save/" + fileName + "/0" + count+".gif"); // 'box.gif'という名前でGIFアニメを作成

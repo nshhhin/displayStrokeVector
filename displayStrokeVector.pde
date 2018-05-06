@@ -1,3 +1,8 @@
+
+// displayStrokeVector
+// 書き順をgifアニメとして生成するシステム
+// created by nino
+
 import gifAnimation.*;
 
 GifMaker gifMaker;
