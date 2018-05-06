@@ -4,7 +4,7 @@
 
 
 <div align="CENTER">
-  <img src="https://github.com/nshhhin/displayStrokeVector/blob/master/example.gif" width="500px" height=auto>
+  <img src="https://github.com/nshhhin/displayStrokeVector/blob/master/example.gif" width="300px" height=auto>
   <p>Fig.1 出力例</p>
 </div>
 
