@@ -17,7 +17,7 @@ class Stroke {
       Point nextPoint = m_listPoints.get(i+1);
       line( prevPoint.x, prevPoint.y, nextPoint.x, nextPoint.y);
       if( m_listPoints.size() > 3 ){
-        arrowPos2(m_listPoints.get(m_listPoints.size()-3),m_listPoints.get(m_listPoints.size()-1),5,10,5);
+        //arrowPos2(m_listPoints.get(m_listPoints.size()-3),m_listPoints.get(m_listPoints.size()-1),5,10,5);
       }
     }
   }
