@@ -3,7 +3,7 @@
 ストロークの書き順をGifファイルで可視化するプログラム
 
 <div align="center">
-  <img scr="https://github.com/nshhhin/displayStrokeVector/blob/master/example.gif" width="200px" height="auto">
+  <img scr="https://github.com/nshhhin/displayStrokeVector/blob/master/example.gif">
 </div>
 
 ## How to use?
