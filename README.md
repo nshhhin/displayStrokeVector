@@ -2,13 +2,10 @@
 # displayStrokeVector
 ストロークの書き順をGifファイルで可視化するプログラム
 
-<div align="center">
-  <img scr="https://github.com/nshhhin/displayStrokeVector/blob/master/example.gif">
-</div>
 
 <div align="CENTER">
-<img src=https://github.com/nshhhin/displayStrokeVector/blob/master/example.gif" width="500px" height=auto>
-<p>Fig.1 出力例</p>
+  <img src="https://github.com/nshhhin/displayStrokeVector/blob/master/example.gif" width="500px" height=auto>
+  <p>Fig.1 出力例</p>
 </div>
 
 
